@@ -60,8 +60,8 @@ PCA on the standardized training features gives a 2D view of the genre structure
 | Classical: AUC 0.985 (421/500 correct) | Alternative: AUC 0.868 (201/500 correct) |
 | Anime: AUC 0.976 (389/500 correct) | Hip-Hop (185/500) and Rap (194/500), most often confused with each other |
 
-![ROC curves](images/roc_curves.png)
-![Confusion matrix](images/confusion_matrix.png)
+![ROC curves](Images/roc_curves.png)
+![Confusion matrix](Images/confusion_matrix.png)
 
 ### What drives the predictions
 | Feature | Importance |
@@ -77,7 +77,7 @@ PCA on the standardized training features gives a 2D view of the genre structure
 ### Genre structure in 2D
 PC1 and PC2 explain 28.47% and 10.40% of the variance (38.87% total). Classical separates toward the left, while Hip-Hop, Rap, and Alternative overlap heavily.
 
-![PCA projection](images/pca_genres.png)
+![PCA projection](Images/pca_genres.png)
 
 ## Key findings
 
