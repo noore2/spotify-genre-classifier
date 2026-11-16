@@ -72,7 +72,7 @@ PCA on the standardized training features gives a 2D view of the genre structure
 | Speechiness | 0.088 |
 | Mode | 0.081 |
 
-![Feature importance](images/feature_importance.png)
+![Feature importance](Images/feature_importance.png)
 
 ### Genre structure in 2D
 PC1 and PC2 explain 28.47% and 10.40% of the variance (38.87% total). Classical separates toward the left, while Hip-Hop, Rap, and Alternative overlap heavily.
